@@ -1,0 +1,4 @@
+baseURL = "http://www.oona.io/"
+languageCode = "ja-JP"
+title = "Oona Inc."
+theme = "base16"
