@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:oona-inc/oona-inc.github.io.git
+	branch = master
+[submodule "themes/base16"]
+	path = themes/base16
+	url = https://github.com/htdvisser/hugo-base16-theme.git
+	branch = master
