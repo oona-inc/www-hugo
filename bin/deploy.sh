@@ -7,6 +7,10 @@ hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public
+
+# Need to add CNAME file for custom domain.
+echo www.oona.io > CNAME
+
 # Add changes to git.
 git add -A
 
